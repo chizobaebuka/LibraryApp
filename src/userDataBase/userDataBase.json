@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f34c37ec-a1eb-4cd5-a39d-65528fb28936",
+    "email": "james24@gmail.com",
+    "password": "$2b$10$8K8mr4ju.a7O1lXv6N5UYO/sTNbZ26s.j2Jw9KNxeDhGXXYWLVmxm",
+    "createdAt": "2023-06-19T12:58:21.144Z",
+    "updatedAt": "2023-06-19T12:58:21.144Z"
+  },
+  {
+    "id": "3b25b72f-902f-4db6-933b-f8282b97eafa",
+    "email": "wilsonAnd231@gmail.com",
+    "password": "$2b$10$1.JGzp0SyBoDCRLS.uCHZuwEpakEPyWrH0QDG0xnibq.Pmss3O88q",
+    "createdAt": "2023-06-23T17:10:14.390Z",
+    "updatedAt": "2023-06-23T17:10:14.390Z",
+    "userName": "Wilson"
+  }
+]
